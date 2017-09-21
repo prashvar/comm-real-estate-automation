@@ -1,0 +1,8 @@
+C:\Domain.Com\Framework\Framework\bin\Debug\Framework.dll
+C:\Domain.Com\Framework\Framework\bin\Debug\Framework.pdb
+C:\Domain.Com\Framework\Framework\bin\Debug\WebDriver.dll
+C:\Domain.Com\Framework\Framework\bin\Debug\WebDriver.Support.dll
+C:\Domain.Com\Framework\Framework\bin\Debug\WebDriver.xml
+C:\Domain.Com\Framework\Framework\bin\Debug\WebDriver.Support.xml
+C:\Domain.Com\Framework\Framework\obj\Debug\Framework.dll
+C:\Domain.Com\Framework\Framework\obj\Debug\Framework.pdb
